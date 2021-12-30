@@ -1,2 +1,3 @@
 [Vulkan Tutorial](https://vulkan-tutorial.com/)
-![Triangle](pics/drawing-a-triangle.png)
+1. Drawing a triangle
+  ![Triangle](pics/drawing-a-triangle.png)
