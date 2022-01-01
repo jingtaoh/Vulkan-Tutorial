@@ -37,7 +37,7 @@
 		F6DD8248277FF7BD0059CD89 /* shader.vert */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.vert; sourceTree = "<group>"; };
 		F6DD8249277FF7BD0059CD89 /* shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.frag; sourceTree = "<group>"; };
 		F6DD824A277FF7BD0059CD89 /* vert.spv */ = {isa = PBXFileReference; lastKnownFileType = file; path = vert.spv; sourceTree = "<group>"; };
-		F6DD824C277FF7BD0059CD89 /* texture.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = texture.jpeg; sourceTree = "<group>"; };
+		F6DD824E277FFCCA0059CD89 /* texture.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = texture.jpg; sourceTree = "<group>"; };
 		F6E2EF03276C59B000FF9671 /* VulkanTesting */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = VulkanTesting; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6E2EF06276C59B000FF9671 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		F6E2EF0E276C5B4F00FF9671 /* libglfw.3.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libglfw.3.3.dylib; path = ../../../../../usr/local/lib/libglfw.3.3.dylib; sourceTree = "<group>"; };
@@ -74,10 +74,10 @@
 			path = shaders;
 			sourceTree = "<group>";
 		};
-		F6DD824B277FF7BD0059CD89 /* textures */ = {
+		F6DD824D277FFCCA0059CD89 /* textures */ = {
 			isa = PBXGroup;
 			children = (
-				F6DD824C277FF7BD0059CD89 /* texture.jpeg */,
+				F6DD824E277FFCCA0059CD89 /* texture.jpg */,
 			);
 			path = textures;
 			sourceTree = "<group>";
@@ -105,8 +105,8 @@
 		F6E2EF05276C59B000FF9671 /* VulkanTesting */ = {
 			isa = PBXGroup;
 			children = (
+				F6DD824D277FFCCA0059CD89 /* textures */,
 				F6DD8245277FF7BD0059CD89 /* shaders */,
-				F6DD824B277FF7BD0059CD89 /* textures */,
 				F6E2EF06276C59B000FF9671 /* main.cpp */,
 			);
 			path = VulkanTesting;

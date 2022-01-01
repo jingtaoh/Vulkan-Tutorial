@@ -5,3 +5,5 @@
     ![Index buffer](pics/index-buffer.png)
 3. Transform
     ![Transform](pics/transform.gif)
+4. Texture Mapping
+    ![Texture Mapping](pics/texture-mapping.gif)
