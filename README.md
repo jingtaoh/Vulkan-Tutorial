@@ -3,3 +3,5 @@
     ![Triangle](pics/drawing-a-triangle.png)
 2. Index buffer
     ![Index buffer](pics/index-buffer.png)
+3. Transform
+    ![Transform](pics/transform.gif)
