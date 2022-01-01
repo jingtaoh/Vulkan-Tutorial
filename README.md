@@ -7,3 +7,5 @@
     ![Transform](pics/transform.gif)
 4. Texture Mapping
     ![Texture Mapping](pics/texture-mapping.gif)
+5. Depth Buffering
+    ![Depth Test](pics/depth-test.gif)
