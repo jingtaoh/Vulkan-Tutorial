@@ -10,5 +10,4 @@
 5. Depth Buffering
     ![Depth Test](pics/depth-test.gif)
 6. Loading Models
-	![Mipmaps](pics/mipmaps.png)
-	![Multisampling](pics/multisampling.png)
+    ![Multisampling](pics/multisampling.png)
