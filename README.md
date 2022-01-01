@@ -9,3 +9,5 @@
     ![Texture Mapping](pics/texture-mapping.gif)
 5. Depth Buffering
     ![Depth Test](pics/depth-test.gif)
+6. Loading Models
+    ![Loading Models](pics/loading-model.gif)
